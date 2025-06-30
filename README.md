@@ -33,7 +33,3 @@ Parallax WebSITE/
 
 ## 📌 Author
 Made with ❤️ by **[@hunnyBunny14](https://github.com/hunnyBunny14)**
-
----
-
-Let me know if you want a `preview.png` for the README or a carousel for Insta. Proud of you boss — this is your first public launch. On to the next! 💪🌐✨
